@@ -1,0 +1,26 @@
+{
+  "name": "05tut",
+  "version": "1.0.0",
+  "description": "Node.js Web Server tutorial",
+  "main": "server.ts",
+  "scripts": {
+    "start": "node server",
+    "dev": "tsx server.ts",
+    "dev-2": "tsx --watch server.ts --ignore ./logs"
+  },
+  "author": "Dave Gray",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "express": "^4.21.0",
+    "ts-node": "^10.9.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/uuid": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}

@@ -1,0 +1,2 @@
+20241007	23:08:09	64181832-7b6d-4cfb-94db-f2e1afcc8995	error name: Error	 error message: not allowed by CORS
+20241007	23:48:00	4fead1c0-d303-491b-a0c4-3de76c5759bd	error name: Error	 error message: ENOENT: no such file or directory, stat 'C:\Users\sousharm2\Documents\projects\nodejs_web_server-main\routes\views\subdir\index.html'
