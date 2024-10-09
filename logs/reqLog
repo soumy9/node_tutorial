@@ -61,3 +61,14 @@
 20241008	22:28:19	56b78651-1045-4097-a47d-87b32c76d7b9	GET	undefined	/new-page.html
 20241008	22:28:19	a8e5a788-2505-45c5-9245-4625b766dcd0	GET	undefined	/img/img1.jpg
 20241008	22:28:19	188cbd3f-eb52-448c-8123-aa652e58235c	GET	undefined	/css/style.css
+20241009	18:40:57	94d6e406-928c-4d1e-b0bf-564b4a2522be	GET	undefined	/
+20241009	18:40:57	c9fbd0a2-8848-4fcd-8621-24e614dbd9bf	GET	undefined	/css/style.css
+20241009	18:41:04	91902887-5881-4468-af70-2b56eaa7b052	GET	undefined	/employees/1
+20241009	18:41:04	1ae3c814-aa6e-49eb-a34b-5064dddaff0e	GET	undefined	/favicon.ico
+20241009	18:45:13	b7b9e349-8376-4194-a756-b427cda65b9d	GET	undefined	/employees/1
+20241009	18:46:47	fb48e085-f6aa-41ca-83cd-cae5ae101201	GET	undefined	/employees/1
+20241009	18:46:59	98946ade-4cc3-44bf-b561-43de100fc511	GET	undefined	/employees
+20241009	18:47:04	4435ce06-9f5a-492a-a41e-024703ff43a7	GET	undefined	/employees/2
+20241009	18:58:14	026843bb-e39a-46b5-a947-c1ecf3143c36	POST	undefined	/employees
+20241009	18:59:49	c5be5e8a-0796-49e4-9891-6e9c67c06285	POST	undefined	/employees
+20241009	19:00:52	5a1b9dfd-87dd-4f1b-914c-4e7886cd77d7	POST	undefined	/employees
